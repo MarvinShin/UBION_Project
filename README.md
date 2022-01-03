@@ -22,7 +22,6 @@
 데이터 분석 목적 정의 
 - 데이터 분석 추진 배경 및 목적을 기술합니다. [관련 디렉토리 : Paper 폴더](https://github.com/MarvinShin/UBION_Project/tree/main/Paper)
 - 데이터의 출처를 작성합니다. [관련 디렉토리 : Dataset 폴더](https://github.com/MarvinShin/UBION_Project/tree/main/Dataset)
-- 분석 기법을 작성합니다. [관련 디렉토리 : Study 폴더](https://github.com/MarvinShin/UBION_Project/tree/main/Study)
 - 최종 보고서를 작성합니다. [관련 디렉토리 : Report 폴더](https://github.com/MarvinShin/UBION_Project/tree/main/Report)
 
 데이터 분석 과정 정리
