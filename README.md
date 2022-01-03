@@ -9,9 +9,6 @@
 - 지금까지 결측치 전처리를 시행했으나, 이젠 정의와 방향성에 맞는 전처리를 시작해야 한다.
 - 참고로 자산가치보다 부채가치가 높은 경우, 부도로 보는 [블랙-숄즈 모형](https://ko.wikipedia.org/wiki/블랙-숄즈_모형)도 존재한다.
 
-프로젝트 스케줄 관리
--	프로젝트가 어느정도 진행됬지만, 아직도 데이터를 찾고 있다면 이는 데이터 분석가의 능력 부족으로 판단된다.
-
 
 ## 프로젝트 일정
 
@@ -19,18 +16,14 @@
 
 ![image](https://user-images.githubusercontent.com/87803612/141708330-942e987e-48d3-4133-9c35-69fdcb86e3b3.png)
 
-먼저 첫주차 금요일에 관심 논문 발표를 할 예정입니다.
-프로젝트 계획서 발표는 화요일, 목요일 중 선택할 예정이고 추후에 업로드하도록 하겠습니다.
-
 
 ## 주의할 점
 
 데이터 분석 목적 정의 
-- 데이터 탐색한 결과를 작성해야 합니다. [관련 디렉토리 : Diary 폴더](https://github.com/signature95/UBION_Project/tree/main/Diary)
-- 데이터 분석 추진 배경 및 목적을 기술합니다. [관련 디렉토리 : Paper 폴더](https://github.com/signature95/UBION_Project/tree/main/Paper)
-- 데이터의 출처를 작성합니다. [관련 디렉토리 : Dataset 폴더](https://github.com/signature95/UBION_Project/tree/main/Dataset)
-- 분석 기법을 작성합니다. [관련 디렉토리 : Study 폴더](https://github.com/signature95/UBION_Project/tree/main/Study)
-- 최종 보고서를 작성합니다. [관련 디렉토리 : Report 폴더](https://github.com/signature95/UBION_Project/tree/main/Report)
+- 데이터 분석 추진 배경 및 목적을 기술합니다. [관련 디렉토리 : Paper 폴더](https://github.com/MarvinShin/UBION_Project/tree/main/Paper)
+- 데이터의 출처를 작성합니다. [관련 디렉토리 : Dataset 폴더](https://github.com/MarvinShin/UBION_Project/tree/main/Dataset)
+- 분석 기법을 작성합니다. [관련 디렉토리 : Study 폴더](https://github.com/MarvinShin/UBION_Project/tree/main/Study)
+- 최종 보고서를 작성합니다. [관련 디렉토리 : Report 폴더](https://github.com/MarvinShin/UBION_Project/tree/main/Report)
 
 데이터 분석 과정 정리
 - 프로젝트의 진행 과정을 도식화, 시각화해서 정리합니다. (물론 word 파일로 해도 되지만, 되도록 시각화하여 이해도를 높이려합니다.)
@@ -87,21 +80,6 @@
   - 기업의 위험
     - 경영 위험, 재무 위험, 영업 위험, 산업 위험
 
-## 발표 형식
-1. 논문선정
-- List 내에서 선택 또는 자유 선정
-2. 발표 방법 및 발표자료 : 자유
-3. 발표형식
-- 팀 소개
-- 논문 선정 이유
-- 데이터 수집, 기간 등
-- 데이터 전처리 과정
-- 관련 선행연구
-- 분석전 탐색과정(기초통계량, 상관계수 등)
-- 분석방법(다수방법 비교의 경우 소개)
-- 실증결과 및 검증 ( 분석방법에 따른 검증평가)
-- 기대효과
-- 한계점
 
 ## 참고 사이트
 - [kis Value](https://www.kisvalue.com/web/index.jsp)
@@ -128,6 +106,4 @@ Q&A : 윤영주 + 나머진 support
 - [신문혁](https://github.com/MarvinShin)
 - [윤영주](https://github.com/younyoungju)
 
-## 조이름
-- Trillion (1조)
 
